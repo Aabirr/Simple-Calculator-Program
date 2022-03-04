@@ -1,0 +1,15 @@
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.exe
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.deps.json
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.runtimeconfig.json
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.dll
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\bin\Debug\net6.0\ref\simpleCalculator.dll
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\bin\Debug\net6.0\simpleCalculator.pdb
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.csproj.AssemblyReference.cache
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.AssemblyInfoInputs.cache
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.AssemblyInfo.cs
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.dll
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\obj\Debug\net6.0\ref\simpleCalculator.dll
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.pdb
+C:\Users\aabir\cSharp\simpleCalculator\simpleCalculator\obj\Debug\net6.0\simpleCalculator.genruntimeconfig.cache
